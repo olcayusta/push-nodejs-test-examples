@@ -1,0 +1,3 @@
+# Project exclude paths
+/push-app/node_modules/
+/push-app-2/node_modules/
